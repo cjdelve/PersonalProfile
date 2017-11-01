@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Personal Profile</string>
+    <string name="txt_header">Cameron</string>
+    <string name="txt_caption">Cameron and Elena</string>
+    <string name="btn_view">View Profile</string>
+    <string name="txt_bio">Cameron has practiced martial arts for almost 20 years. He is currently
+    competing in strongman competitions and would like to work his way as far into the sport as
+    possible before calling it quits. Cameron works as an automation engineer.</string>
+</resources>
